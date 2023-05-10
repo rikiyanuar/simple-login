@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:provider/provider.dart';
 import 'package:simple_login/module/domain/use_case/app_use_case.dart';
-import 'package:simple_login/module/external/constant/app_constant.dart';
 import 'package:simple_login/module/presentation/view_model/general_state.dart';
 import 'package:simple_login/module/presentation/view_model/home_view_model.dart';
 
